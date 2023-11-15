@@ -1,0 +1,21 @@
+.navbar{
+  background-color: rgb(221, 219, 219);
+  position: fixed;
+  top: 0;
+  z-index: 999;
+}
+.navbar-brand {
+  font-size: 25px;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500;
+}
+
+.nav-link {
+  color: black;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 400;
+}
+
+.active{
+  color: red !important;
+}

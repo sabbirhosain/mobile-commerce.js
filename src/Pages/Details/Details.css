@@ -1,0 +1,14 @@
+.details__section{
+  margin-top: 100px;
+}
+.details__btn{
+  color: white;
+  font-size: 14px;
+  font-weight: bold;
+  text-transform: uppercase;
+  font-family: 'Roboto', sans-serif;
+  background-color: orangered;
+  padding: 8px 15px;
+  border-radius: 5px;
+  margin: 0 5px;
+}

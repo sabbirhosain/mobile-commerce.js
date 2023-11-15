@@ -1,0 +1,20 @@
+.product__filter {
+  margin-top: 120px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.pagination__btn {
+  color: white;
+  font-weight: bold;
+  font-family: 'Roboto', sans-serif;
+  background-color: orangered;
+  padding: 6px 20px;
+  border: none;
+  border-radius: 5px;
+}
+
+.pagination__btn:disabled{
+  background-color: black;
+}
